@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace HomeWork2
 {
@@ -10,7 +7,10 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
-            Program.minimalNumber();
+            //minimalNumber();
+            //amountDigitOfNumber();
+            //enterDigitWhileZero();
+            checkLogin();
             Console.ReadKey();
         }
     }

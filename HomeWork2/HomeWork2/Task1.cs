@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//Одзели
+//1. Написать метод, возвращающий минимальное из трех чисел.
+
+using System;
 
 namespace HomeWork2
 {
-    partial class Task1
+    partial class Program
     {
         private static void minimalNumber()
         {
@@ -36,7 +35,7 @@ namespace HomeWork2
                     }
                 }
             }
-            Console.WriteLine($"Из данной последовательности меньшее число: {minimalNumber}");
+            Console.WriteLine($"Из данной последовательности меньшее: {minimalNumber}");
         }
     }
 }
