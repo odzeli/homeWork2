@@ -11,6 +11,7 @@ namespace HomeWork2
             amountDigitOfNumber();
             enterDigitWhileZero();
             checkLogin();
+            health();
             Console.ReadKey();
         }
     }
