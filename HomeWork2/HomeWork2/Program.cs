@@ -7,9 +7,9 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
-            //minimalNumber();
-            //amountDigitOfNumber();
-            //enterDigitWhileZero();
+            minimalNumber();
+            amountDigitOfNumber();
+            enterDigitWhileZero();
             checkLogin();
             Console.ReadKey();
         }
